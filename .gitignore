@@ -1,0 +1,27 @@
+# Dependencies
+**/node_modules
+**/venv
+**/env
+**/.pnp
+.pnp.js
+
+# Python
+**/__pycache__
+**/*.py[cod]
+**/*.so
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
